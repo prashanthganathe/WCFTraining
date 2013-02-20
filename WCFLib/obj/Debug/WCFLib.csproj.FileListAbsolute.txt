@@ -1,0 +1,5 @@
+c:\users\prashanth.kumar\documents\visual studio 2010\Projects\Application\WCFLib\bin\Debug\WCFLib.dll.config
+c:\users\prashanth.kumar\documents\visual studio 2010\Projects\Application\WCFLib\bin\Debug\WCFLib.dll
+c:\users\prashanth.kumar\documents\visual studio 2010\Projects\Application\WCFLib\bin\Debug\WCFLib.pdb
+c:\users\prashanth.kumar\documents\visual studio 2010\Projects\Application\WCFLib\obj\Debug\WCFLib.dll
+c:\users\prashanth.kumar\documents\visual studio 2010\Projects\Application\WCFLib\obj\Debug\WCFLib.pdb
